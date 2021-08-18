@@ -20,3 +20,6 @@ Download [Anaconda](https://www.anaconda.com/products/individual) from the offic
 10. It will show the results of in the terminal: ```No. of Chris training emails :  7936  
 No. of Sara training emails :  7884```
 
+## Edit the code with Visual Studio Code
+- Download [Visual Studio Code](https://code.visualstudio.com/)  
+- Select the folder to edit the python code 
